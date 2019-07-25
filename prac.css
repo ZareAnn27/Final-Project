@@ -1,0 +1,46 @@
+
+body {
+background-image:url("image1.jpg");
+background-repeat:no-repeat;
+
+}
+p {border-style:solid;
+border-width:2px;
+border-color:red green blue yellow;
+margin-top:100px;
+padding-bottom:50px;
+}
+
+#div1 {border-style:solid;
+border-width:5px;
+border-color:white;
+width:50%;
+height:25%;
+ }
+
+#div2 {border-style:solid;
+border-width:5px;
+border-color:red;
+width:35%;
+height:25%;
+text-align:center;
+ }
+
+#link1 {
+text-decoration:none;
+color:red;}
+
+#link1:hover {color:white;
+font-size:20px;
+font-family:chiller;
+backgound-color:hot pink;
+
+
+}
+
+ul.ul1 { 
+list-style-type:square;
+}
+
+
+ol {list-style-type:upper-roman; } 
